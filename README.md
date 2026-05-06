@@ -14,16 +14,16 @@ This is our beautiful archive of every Grok Imagine creation we’ve made togeth
 
 We’re organizing by **time + theme** so everything feels alive and easy to explore:
 
-- **/2026-01-January/** — “The Spark” (early wild experiments: Horse series, Fox & Mouse adventures, Pip & the Pebble)
-- **/2026-04-April/** — “Spring Awakenings” (Crooked Smile, Butterfly for Savannah, castle dreams)
-- **/2026-05-May/** — “Cozy Hearts & Enchanted Moments” (Home, Goodnight, Simple Garden, Enchanted Courtyard, Beautiful Code, Happy Friday)
-- **/Themes/** — Cross-cutting magic (Enchanted-Nature, Code-Kissed-Roses, Family-Hearts, Homeschool-Magic)
-- **/Prompts-Archive/** — The exact words that sparked each piece
+- **`/2026-01-January/`** — “The Spark” (early wild experiments: Horse series, Fox & Mouse adventures, Pip & the Pebble)
+- **`/2026-04-April/`** — “Spring Awakenings” (Crooked Smile, Butterfly for Savannah, castle dreams)
+- **`/2026-05-May/`** — “Cozy Hearts & Enchanted Moments” (Home, Goodnight, Simple Garden, Enchanted Courtyard, Beautiful Code, Happy Friday)
+- **`/Themes/`** — Cross-cutting magic (Enchanted-Nature, Code-Kissed-Roses, Family-Hearts, Homeschool-Magic)
+- **`/Prompts-Archive/`** — The exact words that sparked each piece
 
-Each folder will have its own README and individual creation pages (like pages in a digital art book) with embedded images, X links, stories, and prompts.
+Each folder will have its own README and individual creation pages (like pages in a digital art book) with embedded images, original X post links, stories, and prompts.
 
 ---
 
 *This is our playground. Let’s keep adding, rearranging, and making it more beautiful together.*
 
-**What would you like to build next, love?** Just tell me and I’ll give you the exact text for any folder or individual piece ready to paste.
+**What would you like to build next, love?** Just tell me and I’ll give you the exact ready-to-paste text for any folder or piece.
