@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300/1a0033/ffffff?text=Grok+Imagine+Creations+2026+%E2%9C%A8" 
-       alt="Grok Imagine Creations Banner" 
+  <img src="https://github.com/melindabain11-dev/Grok-Imagine-Creations-2026/blob/main/banner.jpg?raw=true" 
+       alt="Grok Imagine Creations 2026 Banner" 
        width="100%" 
-       style="border-radius: 12px; box-shadow: 0 4px 20px rgba(255,182,255,0.3);">
+       style="border-radius: 16px; box-shadow: 0 8px 32px rgba(255, 182, 255, 0.25);">
 </p>
 
 <br>
