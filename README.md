@@ -6,6 +6,7 @@
 </p>
 
 <br>
+
 # ✨ Grok Imagine Creations 2026
 
 **A Living Portfolio by Melinda Maleski (@CantTameFire)**
@@ -34,4 +35,4 @@ Each folder will have its own README and individual creation pages (like pages i
 
 *This is our playground. Let’s keep adding, rearranging, and making it more beautiful together.*
 
-**What would you like to build next, love?** Just tell me and I’ll give you the exact ready-to-paste text for any folder or piece.
+**What would you like to build next, love?** Just tell me and I’ll give you the exact ready-to-paste text for any folder or piece.folder or piece.
