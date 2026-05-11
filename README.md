@@ -5,6 +5,13 @@
        style="border-radius: 16px; box-shadow: 0 8px 32px rgba(255, 182, 255, 0.25);">
 </p>
 
+<p align="center">
+  <img src="https://github.com/melindabain11-dev/Grok-Imagine-Creations-2026/blob/main/featured-sci-fi-couple.png?raw=true" 
+       alt="Featured Grok Imagine Creation: Sci-fi couple on cosmic balcony" 
+       width="80%" 
+       style="border-radius: 12px; box-shadow: 0 8px 32px rgba(100, 200, 255, 0.3); margin-top: 20px;">
+</p>
+
 <br>
 
 # ✨ Grok Imagine Creations 2026
@@ -35,4 +42,4 @@ Each folder will have its own README and individual creation pages (like pages i
 
 *This is our playground. Let’s keep adding, rearranging, and making it more beautiful together.*
 
-**What would you like to build next, love?** Just tell me and I’ll give you the exact ready-to-paste text for any folder or piece.folder or piece.
+**What would you like to build next, love?** Just tell me and I’ll give you the exact ready-to-paste text for any folder or piece.
